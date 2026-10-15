@@ -2,7 +2,7 @@ Atividade: Vetores — Generation Brasil
 
 Este repositório contém a resolução da atividade prática sobre vetores, desenvolvida durante a sessão de Lógica de Programação (INTRO-CS4) do bootcamp da Generation Brasil.
 
-- Objetivo do exercício
+Objetivo do exercício
 
 O objetivo é praticar a manipulação de vetores, utilizando estruturas de repetição, condições e operações matemáticas para:
 
@@ -11,7 +11,7 @@ O objetivo é praticar a manipulação de vetores, utilizando estruturas de repe
   * Calcular a soma de todos os elementos;
   * Calcular e exibir a média dos valores.
 
-- Tecnologias e ferramentas
+Tecnologias e ferramentas
 
   * Linguagem: Portugol
   * Ambiente de desenvolvimento: Portugol Studio
