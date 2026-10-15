@@ -10,7 +10,7 @@ O código aqui presente tem como objetivo demonstrar a manipulação de estrutur
 
 - Tecnologia e Ferramentas
 * Linguagem:Portugol (pseudocódigo)
-* Ambiente de Desenvolvimento:Portugol Studio
+* Ambiente de Desenvolvimento: Portugol Studio
 
 ---
 Desenvolvido por Cleberson Barbosa dos Santos.
